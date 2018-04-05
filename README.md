@@ -1,6 +1,12 @@
 [![Build Status](https://travis-ci.org/ike18t/mock_component.png?branch=master)](https://travis-ci.org/ike18t/mock_component)
 [![npm version](https://badge.fury.io/js/mock-component.svg)](https://badge.fury.io/js/mock-component)
 
+# **DEPRECATED**: please use [ng-mocks](https://www.npmjs.com/package/ng-mocks) instead.
+
+NgMocks consolidates mock-component, mock-directive, and mock-pipe into one package making it easier to maintain.
+
+Also, if you like mock-component/ng-mocks you may also like [shallow-render](https://www.npmjs.com/package/shallow-render).
+
 # mock_component
 Helper function for creating angular component mocks for test.
 
